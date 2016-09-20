@@ -14,8 +14,7 @@ public class CreateMessageActivity extends AppCompatActivity {
     }
 
     //Call onSendMessage() when the button is clicked
-    public void onSendMessage(View view){
-        Intent intent = new Intent(this, ReceiveMessageActivity.class);
-        startActivity(intent);
-    }
+
+  
+  
 }

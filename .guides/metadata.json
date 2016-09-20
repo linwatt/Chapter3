@@ -70,7 +70,14 @@
   {
    "id": "9403f510-47e1-3666-a7a7-3604d7adb23d",
    "title": "Code",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_create_message.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Code-9403.md",
@@ -81,7 +88,13 @@
   {
    "id": "4275b63e-c679-5620-5090-bd0d3fe15c62",
    "title": "< EditText >",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/--EditText---4275.md",
@@ -92,7 +105,14 @@
   {
    "id": "0f12d9df-e460-99ce-0305-8a311592fb40",
    "title": "Edit strings.xml",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/values/strings.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Edit-strings-xml-0f12.md",
@@ -103,7 +123,14 @@
   {
    "id": "c12cabd6-aaa7-472c-3e52-37d8437d2b6d",
    "title": "Add onSendMessage() Method",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/messenger/CreateMessageActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Add-onSendMessage---Method-c12c.md",
@@ -114,7 +141,13 @@
   {
    "id": "531b3df1-5dab-792a-dfb7-fb8aeceed352",
    "title": "Create Second Activity",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Create-Second-Activity-531b.md",
@@ -180,7 +213,14 @@
   {
    "id": "c93010c1-664d-f801-69cd-552e5b9d4da4",
    "title": "Use an Intent",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/messenger/CreateMessageActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Use-an-Intent-c930.md",
@@ -191,7 +231,13 @@
   {
    "id": "1f35f5cf-00d9-e4f3-fae1-3e299c163cf6",
    "title": "What happens when we run the app?",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-happens-when-we-run-the-app--1f35.md",
@@ -202,7 +248,14 @@
   {
    "id": "be0ce6c8-acbd-32cc-5f97-d42816a3ea37",
    "title": "What the User Sees",
-   "files": [],
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/What-the-User-Sees-be0c.md",
@@ -224,7 +277,14 @@
   {
    "id": "02e483d7-2005-61a6-ac7a-39a68d1de9f7",
    "title": "Layout Changes",
-   "files": [],
+   "files": [
+    {
+     "path": "app/src/main/res/layout/activity_receive_message.xml",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Layout-Changes-02e4.md",
@@ -235,7 +295,13 @@
   {
    "id": "4348e8de-2910-932e-75c5-d1a08363a623",
    "title": "Pass Data - Send Data",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Pass-Data---Send-Data-4348.md",
@@ -256,22 +322,40 @@
   },
   {
    "id": "300c1479-bb12-ce78-d00c-1b46cff686f1",
-   "title": "Update Code",
-   "files": [],
+   "title": "Update CreateMessageActivity",
+   "files": [
+    {
+     "path": "app/src/main/java/com/hfad/messenger/CreateMessageActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Update-Code-300c.md",
+   "content-file": ".guides/content/Update-CreateMessageActivity-300c.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
   },
   {
    "id": "9930a24d-a1a2-ae69-29e1-2da632e777a8",
-   "title": "Updates",
-   "files": [],
+   "title": "Update ReceiveMessageActivity",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    },
+    {
+     "path": "app/src/main/java/com/hfad/messenger/ReceiveMessageActivity.java",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Updates-9930.md",
+   "content-file": ".guides/content/Update-ReceiveMessageActivity-9930.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false
@@ -279,7 +363,13 @@
   {
    "id": "ac944a91-8530-d99e-084c-97d9730a207e",
    "title": "Multiple Activities - Recap",
-   "files": [],
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Multiple-Activities---Recap-ac94.md",
@@ -294,6 +384,24 @@
    "path": [],
    "type": "markdown",
    "content-file": ".guides/content/Recap-f375.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a964025c-d079-aae3-bf46-ac3a41d7f6d3",
+   "title": "Run the App!",
+   "files": [
+    {
+     "path": "#terminal: ",
+     "panel": 0,
+     "action": "open"
+    }
+   ],
+   "layout": "2-panels",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Run-the-App--a964.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false

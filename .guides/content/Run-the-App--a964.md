@@ -1,8 +1,4 @@
-**CreateMessageActivity** starts, and when you click on the Send Message button, it launches **ReceiveMessageActivity**.
-
-![](.guides/img/24call.png)
-
-You can also use codio to build the app!
+This app can be built using codio!
 
 To build the app, enter the following in the terminal:
 ```
@@ -20,5 +16,3 @@ If the project builds correctly, enter the following URL on your android device 
 https://{codio domain}/app/build/outputs/apk/app-debug.apk
 
 The domain for your codio box is listed at the top of your terminal window
-
-
