@@ -1,6 +1,6 @@
 ![](.guides/img/25diagram.png)
 
-So far we’ve coded **CreateMessageActivity** to start **ReceiveMessageActivity** when the Send Message button is pressed. 
+So far we’ve coded `CreateMessageActivity** to start **ReceiveMessageActivity** when the Send Message button is pressed. 
 
 Next, we’ll get **CreateMessageActivity** to pass text to **ReceiveMessageActivity** so that ReceiveMessageActivity can display it. 
 

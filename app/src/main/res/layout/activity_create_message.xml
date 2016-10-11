@@ -17,8 +17,8 @@
         android:layout_alignParentTop="true"
         android:layout_marginLeft="36dp"
         android:layout_marginTop="21dp"
-        android:onClick="XXXXXXX"
-        android:text="XXXXXXX" />
+        android:onClick="onSendMessage"
+        android:text="@string/send" />
 
     <EditText
         android:id="@+id/message"
@@ -27,5 +27,5 @@
         android:layout_alignLeft="@+id/send"
         android:layout_below="@+id/send"
         android:layout_marginTop="18dp"
-        android:ems="XXXXXXX" />
+        android:ems="10" />
 </RelativeLayout>
